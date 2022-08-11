@@ -33,7 +33,7 @@ const lucasdoell = {
 
 Find me online:
 
-<a href="https://lucasdoell.me"><img height="36" width="64" src="https://raw.githubusercontent.com/lucasdoell/lucasdoell/main/assets/http.svg"></a>
+<a href="http://lucasdoell.me"><img height="36" width="64" src="https://raw.githubusercontent.com/lucasdoell/lucasdoell/main/assets/http.svg"></a>
 <a href="https://github.com/lucasdoell"><img height="36" width="64" src="https://raw.githubusercontent.com/lucasdoell/lucasdoell/main/assets/github.svg"></a>
 <a href="https://linkedin.com/in/lucasdoell"><img height="36" width="64" src="https://raw.githubusercontent.com/lucasdoell/lucasdoell/main/assets/icons8-linkedin.svg"></a>
 
