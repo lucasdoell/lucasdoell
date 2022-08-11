@@ -11,7 +11,7 @@ const lucasdoell = {
         styling: ["CSS 3 💅"]
     },
     frameworks: {
-        frontend: ["NextJS 🇳", "React ⚛️", "Astro 🚀"],
+        frontend: ["NextJS 🇳", "React ⚛️", "Astro 🚀", "WordPress 📝"],
         styling: "Tailwind CSS 🍃",
         backend: ["MySQL 🐬", "Firebase 🔥", "Prisma 🔺", "GraphQL 📈"]
     },
