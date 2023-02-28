@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/Status-Looking%20for%20Work-green.svg?style=for-the-badge&labelColor=000)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Status-Working%20at%20Appstle-green.svg?style=for-the-badge&labelColor=000)](https://shields.io/)
 ![GitHub followers](https://img.shields.io/github/followers/lucasdoell?logo=github&style=for-the-badge&labelColor=000)
 ![Twitter Follow](https://img.shields.io/twitter/follow/lucasdoell?logo=twitter&style=for-the-badge&labelColor=000&color=blue)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge&labelColor=000)](http://commonmark.org)
@@ -80,7 +80,6 @@ Find me online:
 <img height="36" width="64" src="https://raw.githubusercontent.com/lucasdoell/lucasdoell/main/assets/mdx.svg">
 <img height="36" width="64" src="https://raw.githubusercontent.com/lucasdoell/lucasdoell/main/assets/json.svg">
 <img height="36" width="64" src="https://raw.githubusercontent.com/lucasdoell/lucasdoell/main/assets/svg.svg">
-<img height="36" width="64" src="https://raw.githubusercontent.com/lucasdoell/lucasdoell/main/assets/latex-svgrepo-com.svg">
 </div>
 </br>
 <div>
