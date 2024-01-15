@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/Status-Working%20at%20Appstle-green.svg?style=for-the-badge&labelColor=000)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Status-Looking%20for%20Work-blue.svg?style=for-the-badge&labelColor=000)](https://shields.io/)
 [![GitHub followers](https://img.shields.io/github/followers/lucasdoell?logo=github&style=for-the-badge&labelColor=000)](https://github.com/lucasdoell)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lucasdoell?logo=twitter&style=for-the-badge&labelColor=000&color=blue)](https://twitter.com/lucasdoell)
 
