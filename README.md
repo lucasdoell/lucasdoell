@@ -6,14 +6,6 @@ Full-stack web developer. I write code sometimes.
 
 Come say hi on [Twitter](https://twitter.com/lucasdoell) or [LinkedIn](https://linkedin.com/in/lucasdoell), I love to chat with other developers.
 
-## Links 🔗
-
-Find me online:
-
-<a href="http://lucasdoell.me"><img height="36" width="64" src="https://raw.githubusercontent.com/lucasdoell/lucasdoell/main/assets/http.svg"></a>
-<a href="https://github.com/lucasdoell"><img height="36" width="64" src="https://raw.githubusercontent.com/lucasdoell/lucasdoell/main/assets/github.svg"></a>
-<a href="https://linkedin.com/in/lucasdoell"><img height="36" width="64" src="https://raw.githubusercontent.com/lucasdoell/lucasdoell/main/assets/icons8-linkedin.svg"></a>
-
 ## Stats 📊
 
 [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdoell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
