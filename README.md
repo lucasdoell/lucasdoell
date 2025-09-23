@@ -5,7 +5,7 @@
 
 _forever futurebound 🎈_
 
-📍 Ithaca, NY \
+📍 Blairstown, NJ \
 🎓 Cornell CS
 
 Software engineer focused mainly on TypeScript and React • https://lux.dev
