@@ -8,7 +8,7 @@ _forever futurebound 🎈_
 📍 Ithaca, NY \
 🎓 Cornell CS
 
-Software engineer focused mainly on TypeScript and React • https://lux.dev • https://ntmr.org
+Software engineer focused mainly on TypeScript and React • https://lux.dev
 
 I also write code for the state of New Jersey. My work profile can be found [here](https://github.com/LucasDoellDCA).
 
