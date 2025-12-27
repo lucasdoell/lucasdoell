@@ -13,8 +13,3 @@ Software engineer focused mainly on TypeScript and React • https://lux.dev
 I also write code for the state of New Jersey. My work profile can be found [here](https://github.com/LucasDoellDCA).
 
 Come say hi on [Bluesky](https://bsky.app/profile/lux.dev) or [LinkedIn](https://linkedin.com/in/lucasdoell), I love to chat with other developers.
-
-## Stats
-
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdoell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
